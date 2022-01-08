@@ -1,0 +1,2 @@
+[24-Apr-2020 20:36:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uzriyatraders/public_html/banner/mm/login.php:25) in /home/uzriyatraders/public_html/banner/mm/login.php on line 27
+[24-Apr-2020 20:37:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uzriyatraders/public_html/banner/mm/login.php:24) in /home/uzriyatraders/public_html/banner/mm/login.php on line 27
